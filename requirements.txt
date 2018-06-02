@@ -1,0 +1,9 @@
+numpy
+matplotlib
+sklearn
+kanren
+simpleai
+deap
+ipywidgets
+sympy
+scikitplot
