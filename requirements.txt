@@ -6,4 +6,4 @@ simpleai
 deap
 ipywidgets
 sympy
-scikitplot
+scikit-plot
